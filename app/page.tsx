@@ -1,5 +1,5 @@
 'use client'
-
+//TODO Change the design of this page first
 import '../styles/home/home.css'
 
 import aaron_mobile_view from '../public/images/aaron_mobile_view.svg'
@@ -120,7 +120,6 @@ export default function Home() {
     <div className="home-main-container">
 
       <div className="outer-layer">
-
         <section className="welcome-section">
           <Navbar />
 
